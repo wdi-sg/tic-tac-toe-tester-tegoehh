@@ -1,4 +1,4 @@
-/*global isGameOver, whoWon, playTurn, restart */
+/* global isGameOver, whoWon, playTurn, restart */
 /* Tic-Tac-Tester.js
 
 This script will test the game logic of your tic tac toe game. To use it you will need to include it in your html file after you main tic-tac-toe script. You will need to declare the following functions in the global scope:
